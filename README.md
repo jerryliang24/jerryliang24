@@ -1,4 +1,4 @@
-I am Zhiyuan Liang, an intern at <a href=""> Tencent</a> supervised by Dr. <a href="https://kaiwang960112.github.io/">Kai Wang</a>. 
+I am Zhiyuan Liang, who just graduate from <a href="https://www.ustc.edu.cn/">USTC</a>.
 
   I'm extraodinarily fortunate to work as an intern at <a href="https://ai.comp.nus.edu.sg/"> NUS HPC AI Lab</a> for a fruitful year, under the supervision of Prof.<a href="https://www.comp.nus.edu.sg/~youy/">Yang You</a>, and advised by Dr. <a href="https://kaiwang960112.github.io/">Kai Wang</a> and <a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a>.
   Before that, I worked as an intern at UNC Chapel Hill under the supervision of Prof <a href="https://www.huaxiuyao.io/"> Huaxiu Yao </a>. 
